@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Partidas Rankeadas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Calculadora de Partidas Rankeadas</h1>
+
+    <label for="vit">Vitórias:</label>
+    <input type="number" id="vit" placeholder="Digite a quantidade de vitórias">
+
+    <br>
+
+    <label for="der">Derrotas:</label>
+    <input type="number" id="der" placeholder="Digite a quantidade de derrotas">
+
+    <br><br>
+
+    <button onclick="calcularNivel()">Calcular Nível</button>
+
+    <br><br>
+
+    <p id="resultado"></p>
+
+    <script src="main.js"></script>
+</body>
+</html>
