@@ -26,7 +26,6 @@ Este é um projeto simples de uma calculadora de nível em partidas ranqueadas, 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
 ## Autor
-[Evair s. Andrade]
+Evair s. Andrade
 
-## Licença
-Este projeto está sob a licença [Licenca].
+
