@@ -8,7 +8,7 @@ Este é um projeto simples de uma calculadora de nível em partidas ranqueadas, 
 - Determina o nível do jogador com base nas regras fornecidas.
 
 ## Como Usar
-1. Execute o programa (main.py).
+1. Abra o arquivo `index.html` em um navegador web.
 2. Insira a quantidade de vitórias quando solicitado.
 3. Insira a quantidade de derrotas quando solicitado.
 4. O programa exibirá o saldo de vitórias e o nível do jogador.
